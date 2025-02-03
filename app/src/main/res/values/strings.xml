@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MNAgenda</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="salvar">SALVAR</string>
+    <string name="salvar_menu">Salvar</string>
+    <string name="remover">Remover</string>
+    <string name="teste">Teste</string>
+</resources>
